@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/yarnevents/static/css/main.ac65af22.chunk.css",
+    "main.js": "/yarnevents/static/js/main.3b406109.chunk.js",
+    "main.js.map": "/yarnevents/static/js/main.3b406109.chunk.js.map",
+    "runtime-main.js": "/yarnevents/static/js/runtime-main.a8c08fa6.js",
+    "runtime-main.js.map": "/yarnevents/static/js/runtime-main.a8c08fa6.js.map",
+    "static/css/2.ad110307.chunk.css": "/yarnevents/static/css/2.ad110307.chunk.css",
+    "static/js/2.e4c21451.chunk.js": "/yarnevents/static/js/2.e4c21451.chunk.js",
+    "static/js/2.e4c21451.chunk.js.map": "/yarnevents/static/js/2.e4c21451.chunk.js.map",
+    "index.html": "/yarnevents/index.html",
+    "precache-manifest.2ddb38ac62748c17644b3d27985f6050.js": "/yarnevents/precache-manifest.2ddb38ac62748c17644b3d27985f6050.js",
+    "service-worker.js": "/yarnevents/service-worker.js",
+    "static/css/2.ad110307.chunk.css.map": "/yarnevents/static/css/2.ad110307.chunk.css.map",
+    "static/css/main.ac65af22.chunk.css.map": "/yarnevents/static/css/main.ac65af22.chunk.css.map",
+    "static/js/2.e4c21451.chunk.js.LICENSE.txt": "/yarnevents/static/js/2.e4c21451.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8c08fa6.js",
+    "static/css/2.ad110307.chunk.css",
+    "static/js/2.e4c21451.chunk.js",
+    "static/css/main.ac65af22.chunk.css",
+    "static/js/main.3b406109.chunk.js"
+  ]
+}
