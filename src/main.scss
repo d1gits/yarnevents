@@ -1,0 +1,15 @@
+@import "~@fullcalendar/core/main.css";
+@import "~@fullcalendar/daygrid/main.css";
+
+.SidePanel {
+  position: sticky;
+  z-index: 1000;
+  height: calc(100vh - 4rem);
+  background-color: #f7f7f7;
+  border-right: 1px solid #ececec;
+}
+
+.Calendar {
+  max-width: 110vh;
+  margin: 30px auto 0 auto;
+}
