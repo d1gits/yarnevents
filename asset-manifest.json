@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.ac65af22.chunk.css",
-    "main.js": "/static/js/main.ff7f3906.chunk.js",
-    "main.js.map": "/static/js/main.ff7f3906.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.23816b5b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.23816b5b.js.map",
-    "static/css/2.ad110307.chunk.css": "/static/css/2.ad110307.chunk.css",
-    "static/js/2.e4c21451.chunk.js": "/static/js/2.e4c21451.chunk.js",
-    "static/js/2.e4c21451.chunk.js.map": "/static/js/2.e4c21451.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ccc32695d0aac04ce362f8d6143d4f4e.js": "/precache-manifest.ccc32695d0aac04ce362f8d6143d4f4e.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.ad110307.chunk.css.map": "/static/css/2.ad110307.chunk.css.map",
-    "static/css/main.ac65af22.chunk.css.map": "/static/css/main.ac65af22.chunk.css.map",
-    "static/js/2.e4c21451.chunk.js.LICENSE.txt": "/static/js/2.e4c21451.chunk.js.LICENSE.txt"
+    "main.css": "yarnevents.com/static/css/main.ac65af22.chunk.css",
+    "main.js": "yarnevents.com/static/js/main.fdff6f33.chunk.js",
+    "main.js.map": "yarnevents.com/static/js/main.fdff6f33.chunk.js.map",
+    "runtime-main.js": "yarnevents.com/static/js/runtime-main.38d2415e.js",
+    "runtime-main.js.map": "yarnevents.com/static/js/runtime-main.38d2415e.js.map",
+    "static/css/2.ad110307.chunk.css": "yarnevents.com/static/css/2.ad110307.chunk.css",
+    "static/js/2.e4c21451.chunk.js": "yarnevents.com/static/js/2.e4c21451.chunk.js",
+    "static/js/2.e4c21451.chunk.js.map": "yarnevents.com/static/js/2.e4c21451.chunk.js.map",
+    "index.html": "yarnevents.com/index.html",
+    "precache-manifest.270b84f279fd002dc15b767e07e072b4.js": "yarnevents.com/precache-manifest.270b84f279fd002dc15b767e07e072b4.js",
+    "service-worker.js": "yarnevents.com/service-worker.js",
+    "static/css/2.ad110307.chunk.css.map": "yarnevents.com/static/css/2.ad110307.chunk.css.map",
+    "static/css/main.ac65af22.chunk.css.map": "yarnevents.com/static/css/main.ac65af22.chunk.css.map",
+    "static/js/2.e4c21451.chunk.js.LICENSE.txt": "yarnevents.com/static/js/2.e4c21451.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.23816b5b.js",
+    "static/js/runtime-main.38d2415e.js",
     "static/css/2.ad110307.chunk.css",
     "static/js/2.e4c21451.chunk.js",
     "static/css/main.ac65af22.chunk.css",
-    "static/js/main.ff7f3906.chunk.js"
+    "static/js/main.fdff6f33.chunk.js"
   ]
 }
